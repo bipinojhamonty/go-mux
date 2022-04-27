@@ -10,5 +10,5 @@ export APP_DB_PASSWORD=mysecretpassword
 
 export APP_DB_NAME=postgres
 
-# the source taken from 
+# the source refered from 
 https://semaphoreci.com/community/tutorials/building-and-testing-a-rest-api-in-go-with-gorilla-mux-and-postgresql
