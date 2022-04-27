@@ -5,7 +5,9 @@ docker run --name some-postgres -p 5432:5432 -e POSTGRES_PASSWORD=mysecretpasswo
 
 # Export these 3 variables
 export APP_DB_USERNAME=postgres
+
 export APP_DB_PASSWORD=mysecretpassword
+
 export APP_DB_NAME=postgres
 
 # the source taken from 
